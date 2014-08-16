@@ -17,7 +17,11 @@ import org.junit.Test;
 import com.proxy.ComputePI;
 import com.proxy.MyClient;
 
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class ProxyTest extends TestCase {
 	public ComputePI theServer;
 

@@ -9,7 +9,8 @@ import java.util.Properties;
 
 /**
  * @author Anupam Gangotia
- * 
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class DAOFactory {
 

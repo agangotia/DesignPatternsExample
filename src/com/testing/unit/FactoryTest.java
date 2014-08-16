@@ -10,7 +10,11 @@ import org.junit.Test;
 
 import com.factory.CustomerDAOOracleImpl;
 import com.factory.DAOFactory;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class FactoryTest extends TestCase {
 	private DAOFactory objFactory;
 

@@ -10,7 +10,11 @@ import com.facade.facade.Facade;
 
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class MainClassTest extends TestCase {
 
 	/**

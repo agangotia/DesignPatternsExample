@@ -16,7 +16,11 @@ import com.pattern.visitor.Student;
 import com.pattern.visitor.StudentBoy;
 import com.pattern.visitor.StudentGirl;
 
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class TestVisitor extends TestCase {
 	
 	ClassSchoolBuilder classSchoolBuilder;

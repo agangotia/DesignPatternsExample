@@ -20,8 +20,9 @@ import com.abstractfactory.CustomerDAO;
 import com.abstractfactory.DAOFactory;
 
 /**
- * @author akg
- * 
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class AbstractFactoryTest extends TestCase {
 
@@ -74,7 +75,7 @@ public class AbstractFactoryTest extends TestCase {
 		Properties properties = new Properties();
 		try {
 			properties.load(new FileInputStream(
-					"src/properties/Lables.properties"));
+					"src/properties/LablesAbsFac.properties"));
 
 			className = properties.getProperty("daoFactoryClass");
 		} catch (IOException e) {
@@ -101,7 +102,7 @@ public class AbstractFactoryTest extends TestCase {
 		Properties properties = new Properties();
 		try {
 			properties.load(new FileInputStream(
-					"src/properties/Lables.properties"));
+					"src/properties/LablesAbsFac.properties"));
 
 			className = properties.getProperty("daoFactoryClass");
 		} catch (IOException e) {

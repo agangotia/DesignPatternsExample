@@ -1,5 +1,9 @@
 package com.pattern.visitor;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class MaxVisitor extends Visitor{
 
 	double maxValue;

@@ -1,5 +1,9 @@
 package com.builder;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class Item {
 	private long itemID;
 	private double itemPrice;

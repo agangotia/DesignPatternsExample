@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.singleton.testing.unit;
+package com.testing.unit;
 
 import org.junit.After;
 import org.junit.Before;
@@ -14,8 +14,9 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * @author anupam gangotia
- * 
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class SingletonClassTest extends TestCase {
 

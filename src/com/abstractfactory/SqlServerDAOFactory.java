@@ -4,8 +4,9 @@
 package com.abstractfactory;
 
 /**
- * @author Anupam GAngotia
- * 
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class SqlServerDAOFactory implements DAOFactory {
 

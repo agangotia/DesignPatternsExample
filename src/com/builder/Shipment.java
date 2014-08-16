@@ -1,5 +1,9 @@
 package com.builder;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class Shipment {
 	private Long shipmentId;
 	private String shipmentDetails;

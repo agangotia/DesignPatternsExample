@@ -7,7 +7,8 @@ import java.util.ArrayList;
 
 /**
  * @author Anupam Gangotia
- * 
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class Transaction {
 	Customer customer;

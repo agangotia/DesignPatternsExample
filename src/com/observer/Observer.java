@@ -1,11 +1,12 @@
 /**
  * 
  */
-package engine;
+package com.observer;
 
 /**
  * @author Anupam Gangotia
- *
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 
 /**Any class who implements this interface must be notified 

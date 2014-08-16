@@ -1,7 +1,11 @@
 package com.pipesnfilters;
 import java.io.*;
 import java.net.*;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class Client {
 
 	public static void main(String[] args) {

@@ -4,8 +4,9 @@
 package com.builder;
 
 /**
- * @author akg
- *
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class CreditCard {
 private Long creditCardNo;

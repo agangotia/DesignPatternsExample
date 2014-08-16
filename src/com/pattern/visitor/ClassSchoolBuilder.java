@@ -1,7 +1,11 @@
 package com.pattern.visitor;
 
 import java.util.ArrayList;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class ClassSchoolBuilder {
 	private ArrayList<Student> students;
 

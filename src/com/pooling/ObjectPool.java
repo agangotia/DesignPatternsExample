@@ -2,7 +2,11 @@ package com.pooling;
 
 import java.util.ArrayList;
 import java.util.Set;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class ObjectPool {
 
 	private static ArrayList<ObjectPool> listOfObject;

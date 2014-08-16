@@ -14,7 +14,11 @@ import com.builder.Item;
 import com.builder.Shipment;
 import com.builder.Transaction;
 import com.builder.TransactionBuilder;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class BuilderTest extends TestCase {
 	private TransactionBuilder objTransactionBuilder;
 

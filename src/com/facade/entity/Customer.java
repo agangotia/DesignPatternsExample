@@ -1,5 +1,9 @@
 package com.facade.entity;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 import java.util.Date;
 
 public class Customer {

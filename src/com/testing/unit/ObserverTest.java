@@ -1,15 +1,16 @@
 /**
  * 
  */
-package com.testing.integration;
+package com.testing.unit;
 
-import engine.Internet;
-import engine.Loan;
-import engine.Newspaper;
+import com.observer.Internet;
+import com.observer.Loan;
+import com.observer.Newspaper;
 
 /**
- * @author  Anupam Gangotia
- *
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class ObserverTest {
 

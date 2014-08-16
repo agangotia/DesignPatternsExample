@@ -2,7 +2,11 @@ package com.proxy;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class PI implements Serializable {
 	
 	private final int digits;

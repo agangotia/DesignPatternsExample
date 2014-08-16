@@ -1,5 +1,9 @@
 package com.pattern.visitor;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 public class MinVisitor extends Visitor{
 double minValue;
 boolean firstTime=true;

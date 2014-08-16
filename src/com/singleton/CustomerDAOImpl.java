@@ -2,10 +2,10 @@
  * 
  */
 package com.singleton;
-
 /**
- * @author anupam gangotia
- *
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 public class CustomerDAOImpl implements CustomerDAO{
 	
