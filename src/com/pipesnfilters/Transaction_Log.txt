@@ -1,0 +1,4 @@
+Transaction ID: 4 Record:  Expense:400000$ Revenue:8500000$ FOURTHQUARTER 2012 
+Transaction ID: 1 Record:  Expense:100000$ Revenue:5000000$ FIRSTQUARTER 2012 
+Transaction ID: 2 Record:  Expense:200000$ Revenue:7000000$ SECONDQUARTER 2012 
+Transaction ID: 3 Record:  Expense:300000$ Revenue:8000000$ THIRDQUARTER 2012 

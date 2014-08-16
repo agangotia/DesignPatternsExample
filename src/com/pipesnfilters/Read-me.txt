@@ -1,0 +1,6 @@
+Run Process 2
+Run Process 1
+Run Client
+Check the output in the Transaction_Log file
+
+Client program send messages to Process1. Process 1 send messages to Process 2. Process 2 records it in Transaction_Log file
